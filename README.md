@@ -1,11 +1,11 @@
 # Lớp CTK74A - Tổ 5 Nhóm 1
 ## Học C++
 ### Thành Viên
-* [** Trần Nguyễn Tuấn Anh **]()
-* [** Nguyễn Hưng Thịnh **]()
-* [** Phạm Văn Hiếu **]()
-* [** Nguyễn Minh Anh **]()
-* [** Lê Thị Mai Anh **]()
+* [**Trần Nguyễn Tuấn Anh**]()
+* [**Nguyễn Hưng Thịnh**]()
+* [**Phạm Văn Hiếu**]()
+* [**Nguyễn Minh Anh**]()
+* [**Lê Thị Mai Anh**]()
 
 ### Phần Mềm Sử Dụng:
 * Visual Studio
